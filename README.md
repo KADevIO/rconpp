@@ -1,6 +1,8 @@
 # rcon++
 Rcon++ is a modern Source RCON library for C++, allowing people to easily use RCON however they like!
 
+## This repo has been moved to https://codeberg.org/Jaskowicz/rconpp
+
 #### Library Features
 
 - Support for Valve and non-Valve games.
